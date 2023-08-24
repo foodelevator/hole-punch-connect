@@ -1,13 +1,13 @@
 [package]
 name = "hole-punch-connect"
-version = "0.1.0"
-authors = ["Mathias Magnusson <mathias@magnusson.space>"]
+version = "0.1.2"
+authors = ["Mathias Magnusson <mathias+hpc@magnusson.space>"]
 edition = "2018"
 license-file = "LICENSE"
 description = " Help functions/methods for UDP hole punching"
 repository = "https://github.com/mathiasmagnusson/hole-punch-connect"
-documentation = "https://files.magnusson.space/hole-punch-connect"
-homepage = "https://files.magnusson.space/hole-punch-connect"
+documentation = "https://github.com/mathiasmagnusson/hole-punch-connect"
+homepage = "https://github.com/mathiasmagnusson/hole-punch-connect"
 keywords = ["udp", "hole", "punching"]
 categories = ["network-programming"]
 

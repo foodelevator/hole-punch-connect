@@ -4,7 +4,7 @@
 //!
 //! One beautiful day, I or someone else might also add [TCP hole punching](https://en.wikipedia.org/wiki/TCP_hole_punching)
 //! support to this crate. (Which is why the crate name doesn't contain UDP)
-//! 
+//!
 //! # Examples
 
 mod client;
